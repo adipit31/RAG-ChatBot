@@ -1,0 +1,39 @@
+Tell me about Property ID 1: This property is a single-family home located in a residential neighborhood. It features 3 bedrooms, 2 bathrooms, and a spacious backyard with a garage.
+
+Can you describe the details of Property ID 5?: Property ID 5 is a modern townhouse in a downtown area, offering 2 bedrooms, 2 bathrooms, and a small patio. The property is located near public transportation and shopping centers.
+
+What makes Property ID 3 unique?: Property ID 3 is unique because it is a historic building that has been fully renovated. It retains its classic architecture while incorporating modern amenities, such as a contemporary kitchen and smart home features.
+
+What is special about Property ID 10?: This property is special because it has a large garden and a private pool, making it perfect for outdoor entertainment. Additionally, the home has energy-efficient features like solar panels.
+
+Provide a summary of Property ID 7: Property ID 7 is a duplex located in a suburban area. It features two separate units, each with 3 bedrooms and 1.5 bathrooms, making it ideal for multi-generational living or rental income.
+
+What is the house style of Property ID 2?: Property ID 2 is designed in a Colonial style, with traditional brick facades, dormer windows, and a symmetrical layout.
+
+Can you describe the building type of Property ID 8?: Property ID 8 is an apartment complex, consisting of multiple floors with individual units. Each unit has 2 bedrooms and 1 bathroom, and the complex offers amenities like a gym and community center.
+
+How is the lot configured for Property ID 6?: The lot for Property ID 6 is rectangular and has a large front yard with a paved driveway. The backyard features a deck and ample space for gardening or outdoor activities.
+
+What is the roof style for Property ID 9?: Property ID 9 has a hip roof, characterized by four slopes that come together at the top, offering both aesthetic appeal and stability during harsh weather conditions.
+
+What is the zoning category of Property ID 4?: Property ID 4 falls under a residential zoning category, specifically R-1, which is intended for single-family homes and restricts commercial developments.
+
+What is the price of Property ID 12?: Property ID 12 is listed at $450,000, with a spacious 3-bedroom, 2-bathroom layout and a large backyard.
+
+How large is the lot area for Property ID 14?: The lot area for Property ID 14 is 5,000 square feet, providing ample space for the house and outdoor amenities like a garden or patio.
+
+Can you provide the sale price and size of Property ID 15?: Property ID 15 sold for $650,000, and it has a lot size of 6,500 square feet with a 4-bedroom, 3-bathroom home.
+
+Is Property ID 11 expensive compared to other properties?: Property ID 11 is more expensive compared to other properties in the area, priced at $850,000, as it features high-end finishes and is located in a sought-after neighborhood.
+
+What is the price and condition rating for Property ID 13?: Property ID 13 is listed at $375,000 and has an excellent condition rating due to recent renovations, including updated plumbing, electrical systems, and flooring.
+
+What year was Property ID 16 built?: Property ID 16 was built in 1998, featuring a traditional ranch-style design with 3 bedrooms and 2 bathrooms.
+
+Is Property ID 18 older or newer than Property ID 19?: Property ID 18 is older than Property ID 19 by about 5 years, with Property ID 18 being built in 2005 and Property ID 19 in 2010.
+
+Which property has the most recent construction, Property ID 20 or Property ID 21?: Property ID 21 is the most recently constructed property, completed in 2023, while Property ID 20 was built in 2020.
+
+How does the age of Property ID 17 compare to Property ID 22?: Property ID 17 is slightly older than Property ID 22, built in 2015 compared to Property ID 22, which was built in 2017.
+
+What are the oldest and newest properties in the dataset?: The oldest property in the dataset is Property ID 1, built in 1950, while the newest property is Property ID 21, constructed in 2023.
